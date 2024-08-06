@@ -10,6 +10,7 @@ h6 {
 
 .myLink {
     display: none
+<<<<<<< HEAD
 }
 #tyModal {
     display: none;
@@ -43,4 +44,6 @@ h6 {
 .tyClose:focus {
     color: #000;
     cursor: pointer;
+=======
+>>>>>>> parent of 6a6058c (在頁面左上角新增固定的選單)
 }
